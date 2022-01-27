@@ -1,0 +1,7 @@
+target/*
+.classpath
+.project
+.idea/*
+.settings/*
+first-demo-project.iml
+
